@@ -1,0 +1,83 @@
+  /*
+  colors:
+    azulito oscurito: 4f8a8b
+    azul marino: 204051
+    amarillo: f3c623
+    blanquito: f4f6ff
+  */
+
+  body{
+    background-color: #e0dede;
+    margin: 0;
+  }
+  .top{
+    background-color: #4f8a8b;
+  }
+  .top img{
+    margin-left: 5rem;
+    height: 200px;
+  }
+  .menu{
+    padding : 25px;
+    display: inline;
+    position: absolute;
+    right: 5rem;
+    top: 4em;
+    }
+  .menu a{
+    padding: 0.5em;
+    margin: auto 2rem;
+    color: #f4f6ff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .menu a:hover{
+    background-color: #3f7a7b;
+    border-radius: 20%;
+  }
+  .middle{
+    text-align: center;
+  }
+  .content{
+    margin-top: 100px;
+    padding: 15px;
+  }
+  h1{
+    font-size: 4rem;
+    font-family: 'MuseoModerno', cursive;
+  }
+  h2{
+    font-size: 1.8rem;
+    font-family: 'Roboto Mono', monospace;
+  }
+  h3{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #436f8a;
+  }
+  h4{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #bb3b0e;
+  }
+  hr{
+    margin-top: 100px;
+    border-top: 5px dotted #fb7813;
+    width: 60%;
+  }
+  p{
+    line-height: 2;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    width: 40rem;
+    margin: auto;
+  }
+  .middle img{
+    margin: 100px 50px;
+    width: 200px;
+  }
+  .skills-img {
+    width: 70%;
+    margin: auto;
+  }
